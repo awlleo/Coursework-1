@@ -1,0 +1,15 @@
+*
+!database.cpp
+!database.h
+!main.cpp
+!mainwindow.cpp
+!mainwindow.h
+!project.pro
+!tableform.cpp
+!tableform.h
+!tripform.cpp
+!tripform.h
+!.gitignore
+!Makefile
+!.qmake.stash
+
